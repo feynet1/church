@@ -141,7 +141,7 @@ function Profile() {
         <hr style={s.divider} />
 
         {editing ? (
-          /* ── Edit form ─────────────────────────────────────────── */
+          /* ── Edit form ──────── */
           <div>
             <div style={s.formGrid}>
               <Field label="First Name *">
